@@ -39,6 +39,9 @@ EditorBuildSettings:
     path: Assets/.unity
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/IntroTest.unity
+    path: Assets/Scenes/IntroTest.unity
     guid: 98b61e4ef007ef847b21ccb80cda6f11
+  - enabled: 1
+    path: Assets/HLevel01.unity
+    guid: 4374560811f161e4a91560656a0c7c7f
   m_configObjects: {}
